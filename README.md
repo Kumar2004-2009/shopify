@@ -20,7 +20,7 @@ Admin Pannel
 ## Getting Started
 
 To run the project locally, follow these steps:
-1. Clone the repository: git clone (link unavailable)
+1. Clone the repository: git clone https://github.com/Kumar2004-2009/shopify.git
 2. Install dependencies: npm install
 3. Start the development server: npm run dev
 4. Connect to MongoDB: mongodb://localhost:27017/
