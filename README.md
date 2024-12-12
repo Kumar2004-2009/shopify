@@ -1,6 +1,6 @@
 # Clothing Brand Shopify
 ## Overview
-A clothing brand e-commerce platform built using Node.js, Express, and MongoDB, inspired by Shopify.</br>
+A clothing brand e-commerce platform built using Node.js, Express, and MongoDB.</br>
 </br>
 Admin Pannel
 ![04 08 2024_00 11 01_REC](https://github.com/user-attachments/assets/624f4eda-5b71-4ab5-98af-3679273d89ef)
